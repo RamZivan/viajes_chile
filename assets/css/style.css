@@ -4,7 +4,7 @@ html {
         }
 }
 body {
-    background-color: rgb(23, 17, 17);
+    background-color: black;
 }
 
 .navbar img {
@@ -27,19 +27,19 @@ body {
 
 .encabezados {
     text-align: center;
-    color: #ffffff;
+    color: white;
     font-size: 3rem;
     padding: 2rem 0;
 }
 
 .q_s p {
-    color: #ffffff;
+    color: white;
 }
 
 .q_s i {
-    color: #ffffff;
+    color: white;
     font-size: 2rem;
-    background-color: #3ea4b3;
+    background-color: brown;
     text-align: center;
     width: 100%;
     padding: 7px 0;
@@ -54,8 +54,8 @@ body {
 
 /** Cards **/
 .card-body {
-    background-color: #3ea4b3;
-    color: #ffffff;
+    background-color: brown;
+    color: white;
 }
 
 .card-text {
@@ -71,6 +71,6 @@ body {
 
 /**footer**/
 footer {
-    background-color: #3ea4b3;
-    color: #ffffff;
+    background-color: brown;
+    color:white;
 }
